@@ -47,6 +47,7 @@ namespace Task_16
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine();
         }
     }
 }
