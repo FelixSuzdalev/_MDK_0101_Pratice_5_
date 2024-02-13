@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6", "Task_6\Task_6.csproj", "{949FA58D-B09E-4721-9819-573FA5A105C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_6_2", "Task_6_2\Task_6_2.csproj", "{B69FCEED-155C-4345-9745-E30E3278877E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_16", "ConsoleApp1\Task_16.csproj", "{3803AC94-AFC4-43F9-B950-C0FD2DEE1CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949FA58D-B09E-4721-9819-573FA5A105C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949FA58D-B09E-4721-9819-573FA5A105C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949FA58D-B09E-4721-9819-573FA5A105C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949FA58D-B09E-4721-9819-573FA5A105C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69FCEED-155C-4345-9745-E30E3278877E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69FCEED-155C-4345-9745-E30E3278877E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69FCEED-155C-4345-9745-E30E3278877E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69FCEED-155C-4345-9745-E30E3278877E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3803AC94-AFC4-43F9-B950-C0FD2DEE1CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3803AC94-AFC4-43F9-B950-C0FD2DEE1CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3803AC94-AFC4-43F9-B950-C0FD2DEE1CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3803AC94-AFC4-43F9-B950-C0FD2DEE1CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E626DC9-05E4-4613-869A-9DAA21C1627C}
+	EndGlobalSection
+EndGlobal
